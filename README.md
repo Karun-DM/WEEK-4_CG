@@ -1,4 +1,4 @@
-# Week 3: Data Structures and Algorithms (DSA)
+# Week 4: Data Structures and Algorithms (DSA)
 
 Welcome to the repository for Week 3 of our Java learning journey. This week focused on 
 understanding fundamental data structures and algorithmic concepts using Java.
